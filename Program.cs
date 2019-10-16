@@ -11,7 +11,8 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            //This is commetn#2
+            //This is comment#2
+            //hey this is pretty cool!
         }
 
     }
